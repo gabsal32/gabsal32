@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DonutMan32
+- 👋 Hi, I’m @gabsal32
 - 👀 I’m interested in ... - music, anime, and food
-- 🌱 I’m currently learning ... - javascript (node.js) and Java
+- 🌱 I’m currently learning ... - Python, Flask, and C
 - 💞️ I’m looking to collaborate on ... anything really.
 - 📫 How to reach me gabsal23@hotmail.com 
 - 😄 Pronouns: ... He/Him
